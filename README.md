@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikej075
 - 👀 I’m interested in ...Web development 
-- 🌱 I’m currently learning ...rect.js
+- 🌱 I’m currently learning ...react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...203-645-2249 / michaeljamesjr91@gmail.com
 
