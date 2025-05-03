@@ -7,7 +7,7 @@ Application Support Specialist
 I come from a development and API background, and lately I've been diving deeper into CI/CD and Terraform. I'm really focused on building out continuous integration and automation in the cloud.
 
 * 🌍  I'm based in United States
-* 🖥️  See my portfolio at [hyyps://michaeljamesportfolio.com](http://michaeljamesportfolio.com)
+* 🖥️  See my portfolio at [https://michaeljamesportfolio.com](http://michaeljamesportfolio.com)
 * ✉️  You can contact me at [Michaeljamesjr91@gmail.com](mailto:Michaeljamesjr91@gmail.com)
 * 🧠  I'm learning Terraform
 
