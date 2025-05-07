@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Application Support Specialist
 ------------------------------
 
-I come from a development and API background, and lately I've been diving deeper into CI/CD and Terraform. I'm really focused on building out continuous integration and automation in the cloud.
+My main focus has been building cloud based projects allowing me to dive deeper into CI/CD and Terraform. My passion is building out continuous integrations and automations in the cloud.
 
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [https://michaeljamesportfolio.com](http://michaeljamesportfolio.com)
